@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc25ad9d.css",
+    "main.js": "/static/js/main.6de5c383.js",
+    "static/js/787.231a2d75.chunk.js": "/static/js/787.231a2d75.chunk.js",
+    "static/media/wedding.png": "/static/media/wedding.cfee9d7420dc212d1a9d.png",
+    "static/media/career.png": "/static/media/career.b7ccb81d10e2364a3b0e.png",
+    "static/media/kids.png": "/static/media/kids.3fe6f13361ab372ce5cb.png",
+    "static/media/notFound.png": "/static/media/notFound.fdf2411a642af3f35749.png",
+    "static/media/banner.png": "/static/media/banner.4c43943f56c5fc1231b0.png",
+    "static/media/fooerbg.jpeg": "/static/media/fooerbg.cd8f2ad18903e3c37a8d.jpeg",
+    "static/media/logo.png": "/static/media/logo.fea20b1fdfb160673893.png",
+    "static/media/filters.webp": "/static/media/filters.99728bd49a7a68861724.webp",
+    "static/media/electrcal-parts.webp": "/static/media/electrcal-parts.053678f6945c5ff00c4c.webp",
+    "static/media/brakes.webp": "/static/media/brakes.4609c27c8721580d8ce2.webp",
+    "static/media/Tyre.webp": "/static/media/Tyre.9161c7c298d544f1230e.webp",
+    "static/media/Lubricant.webp": "/static/media/Lubricant.3f4fd1929a6ecc07a608.webp",
+    "static/media/BULB-and-LED.webp": "/static/media/BULB-and-LED.fa713fbd5a35a84e23c7.webp",
+    "static/media/wiper.webp": "/static/media/wiper.2b1439105b4a34af7d1b.webp",
+    "static/media/car-horn.webp": "/static/media/car-horn.cda5233749395d71b718.webp",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.dc25ad9d.css.map": "/static/css/main.dc25ad9d.css.map",
+    "main.6de5c383.js.map": "/static/js/main.6de5c383.js.map",
+    "787.231a2d75.chunk.js.map": "/static/js/787.231a2d75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc25ad9d.css",
+    "static/js/main.6de5c383.js"
+  ]
+}
